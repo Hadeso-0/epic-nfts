@@ -15,3 +15,4 @@ npx hardhat help
 ```
 
 Contract = 0xD2223a7118789BfAEb7aA688eEaB1ce2a4096b21
+Rareible link = https://testnet.rarible.com/collection/0xd2223a7118789bfaeb7aa688eeab1ce2a4096b21/items
